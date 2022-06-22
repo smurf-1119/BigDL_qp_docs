@@ -5,3 +5,4 @@ Chronos API
     :maxdepth: 2
 
     forecast.rst
+    new.rst
